@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="apigateway" />
         <module name="eurekaserver" />
         <module name="feignconsumer" />
         <module name="springcomsumer" />
@@ -13,6 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="apigateway" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="feignconsumer" target="1.8" />
       <module name="springcomsumer" target="1.8" />

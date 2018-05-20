@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/springprovide/pom.xml" />
         <option value="$PROJECT_DIR$/springcomsumer/pom.xml" />
         <option value="$PROJECT_DIR$/feignconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/apigateway/pom.xml" />
       </list>
     </option>
   </component>
