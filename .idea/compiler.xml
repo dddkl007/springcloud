@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="apigateway" />
+        <module name="confclient" />
+        <module name="confrepo" />
+        <module name="confserver" />
         <module name="eurekaserver" />
         <module name="feignconsumer" />
         <module name="springcomsumer" />
@@ -15,6 +18,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="apigateway" target="1.8" />
+      <module name="confclient" target="1.8" />
+      <module name="confrepo" target="1.8" />
+      <module name="confserver" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="feignconsumer" target="1.8" />
       <module name="springcomsumer" target="1.8" />

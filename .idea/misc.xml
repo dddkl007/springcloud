@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/springcomsumer/pom.xml" />
         <option value="$PROJECT_DIR$/feignconsumer/pom.xml" />
         <option value="$PROJECT_DIR$/apigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/confserver/pom.xml" />
+        <option value="$PROJECT_DIR$/confrepo/pom.xml" />
+        <option value="$PROJECT_DIR$/confclient/pom.xml" />
       </list>
     </option>
   </component>

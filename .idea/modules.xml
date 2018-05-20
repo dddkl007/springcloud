@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confclient/confclient.iml" filepath="$PROJECT_DIR$/confclient/confclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confrepo/confrepo.iml" filepath="$PROJECT_DIR$/confrepo/confrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confserver/confserver.iml" filepath="$PROJECT_DIR$/confserver/confserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/feignconsumer/feignconsumer.iml" filepath="$PROJECT_DIR$/feignconsumer/feignconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
