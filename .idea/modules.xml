@@ -8,9 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/confserver/confserver.iml" filepath="$PROJECT_DIR$/confserver/confserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/feignconsumer/feignconsumer.iml" filepath="$PROJECT_DIR$/feignconsumer/feignconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrixdashboard/hystrixdashboard.iml" filepath="$PROJECT_DIR$/hystrixdashboard/hystrixdashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcomsumer/springcomsumer.iml" filepath="$PROJECT_DIR$/springcomsumer/springcomsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springprovide/springprovide.iml" filepath="$PROJECT_DIR$/springprovide/springprovide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/turbine.iml" filepath="$PROJECT_DIR$/turbine/turbine.iml" />
     </modules>
   </component>
 </project>

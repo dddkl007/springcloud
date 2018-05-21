@@ -12,8 +12,10 @@
         <module name="confserver" />
         <module name="eurekaserver" />
         <module name="feignconsumer" />
+        <module name="hystrixdashboard" />
         <module name="springcomsumer" />
         <module name="springprovide" />
+        <module name="turbine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,8 +25,10 @@
       <module name="confserver" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="feignconsumer" target="1.8" />
+      <module name="hystrixdashboard" target="1.8" />
       <module name="springcomsumer" target="1.8" />
       <module name="springprovide" target="1.8" />
+      <module name="turbine" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
